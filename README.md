@@ -5,7 +5,7 @@ fdf is a 42-school project to make a tool that visualises a 3D wireframe model f
 fdf is a very straightforward tool that takes a file as an input and displays the model in a window. It also features a collection of test_maps to try out.
 - Parse and read a file containing a grid of points with their given height values.
 - Render a 3D wireframe model based on the input data.
-- Translation, rotation and zoom controls for the model.
+- Translation, rotation and scaling controls for the model.
 
 # How to use
 ## Build
@@ -48,9 +48,9 @@ Example:
 `↓` - Rotate model down\
 `→` - Rotate model right
 
-**Zooming in and out:**\
-`🖱️↑` - Zoom in\
-`🖱️↓` - Zoom out
+**Scaling the model:**\
+`🖱️↑` - Scale model up\
+`🖱️↓` - Scale model down
 
 **Perspective controls:**\
 `1` - Isometric View\
