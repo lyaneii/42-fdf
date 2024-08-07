@@ -1,0 +1,9 @@
+#test_maps
+*.o
+*.gen
+*.txt
+*.out
+*.a
+fdf
+.vscode
+minilibx-linux/.gitignore
