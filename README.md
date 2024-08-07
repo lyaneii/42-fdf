@@ -1,3 +1,4 @@
+![Example Image](images/example.png)
 # 42-fdf
 fdf is a 42-school project to make a tool that visualises a 3D wireframe model from a given heightmap.
 
